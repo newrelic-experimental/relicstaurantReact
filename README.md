@@ -1,4 +1,4 @@
-##Relicstaurants by NewRelic
+## Relicstaurants by NewRelic
 
 ## Table of contents
 * [General info](#general-info)
@@ -28,7 +28,7 @@ To run this project, install it locally using npm:
 To run the project on simulator, run the following command:
   1. Run simulator with chosen device.
   2. Run `npm run` and choose correct device by pressing 'a' or 'i'.
-      Second option is running `npm run ios` or `npm run android`201
+      Second option is running `npm run ios` or `npm run android`
   3. Wait until the app is ready.
   4. Open the app / or use (I) from terminal output.
 
